@@ -1,6 +1,12 @@
 .App {
   text-align: center;
   margin: 20px;
+  width: 600px;
+  border-style: solid;
+  height: 500px;
+}
+.search-box {
+  margin: 20px;
 }
 .detail {
   color: aqua;
@@ -9,4 +15,7 @@
 
 .detailBox {
   margin: 10px;
+  border: 1px;
+  border-color: azure;
+  border-style: solid;
 }
